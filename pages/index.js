@@ -1,4 +1,6 @@
 // pages/index.js
+// preview ping
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-white text-gray-900">
